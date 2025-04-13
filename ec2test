@@ -14,7 +14,7 @@ Resources:
               - 'sts:AssumeRole'
       Path: /
       Policies:
-        - PolicyName: sadiq-instance-profile-1
+        - PolicyName: sadiq-instance-profile-786
           PolicyDocument:
             Version: "2012-10-17"
             Statement:
