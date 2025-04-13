@@ -14,7 +14,7 @@ Resources:
               - 'sts:AssumeRole'
       Path: /
       Policies:
-        - PolicyName: sadiq qutub-instance-profile-786
+        - PolicyName: sadiq qutub-instance-profile-786786
           PolicyDocument:
             Version: "2012-10-17"
             Statement:
